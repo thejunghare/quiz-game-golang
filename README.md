@@ -2,7 +2,7 @@
 A simple quiz game build using the go language.
 Before runing make sure all the downloaded files are in one folder.
 
-Run the game usig below command:
+Run the game using below command:
 
 ```
 go build . && ./quiz -limit=2
